@@ -1,6 +1,7 @@
 Initial views on the planned missions
 
--The idea of exploring new planets is both exhilarating and scary, i.e., Being the first human(s) to set foot on a previously
- unexplored planet or making contact with an entirely new species
+The idea of exploring new planets is both exhilarating and scary, i.e., Being the first human(s) to set foot on a previously
+unexplored planet or making contact with an entirely new species
 
-
+The mission could be risky for the team sent as some factors regarding the planets' ability to sustain life are unknown or outright 
+dangerous
