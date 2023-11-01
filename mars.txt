@@ -1,4 +1,5 @@
-The planet is colder than Earth, but the surface is a beutiful red color
+The planet is colder than Earth, but the surface is a beautiful red color.
 Acclimatization exercises and simulations of Mars'atmospheric conditions may be recommended for the team before the mission
-to to allow for better adjustment to mars’ climate
-Many previous robotic missions to Mars mean that the planet is more well known, making risk assessment for crewed mission easier
+to allow for better adjustment to mars’ climate.
+Many previous robotic missions to Mars mean that the planet is more well known, making risk assessment for crewed mission easier.
+Mars frequently has dust storms, lasting up to a couple of months.
