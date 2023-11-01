@@ -2,3 +2,4 @@ The planet is beautiful as observed by astronomers, and can be seen in earth's s
 Venus is a solar rocky planet with a permanently opaque atmosphere mainly due to a constantly closed cloud cover which
 highly reduces visibility.
 The cloudy atmosphere could make it harder to navigate the lander to the surface, but the earthlike gravity of Venus means that the crew will not have to acclimatize as harshly.
+Our current equipment might not be able to stand the high temperatures.
