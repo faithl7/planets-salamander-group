@@ -5,7 +5,6 @@ Discussions were had amongst the planning team concerning the feasibility of exp
 considered in the decision making and recommendations made for the most viable mission option to allocate resources on.
 
 ###Mars
-This is probably the most viable option for our planetary landers mission.
 Based on the research data available on the planet, the close similarity to earth compared to the other planets examined and the 
 availability of resources that could be allocated to Mars' exploration, a mission on Mars seems more practical.
 
@@ -17,4 +16,7 @@ Despite it's gravity being closely related to that of earth, other properties co
 low visibility and overall unstable atmosphere makes venus a unlikely destination to send our teams for exploration.
  
 ##Conclusion
+Mars is probably the most viable option for our planetary landers mission.
+Its climatic conditions are less extreme than those of Venus.
+Jupiter is right out. 
 ___________________
