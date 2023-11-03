@@ -11,6 +11,7 @@ availability of resources that could be allocated to Mars' exploration, a missio
 
 ###Jupiter
 Being a  gaseous planet with no solid surface and extremely low temperatures,makes Jupiter an unstable destination for our mission.
+Also, the extreme winds make Jupiter an unhospitable planet.
 
 ###Venus
 Despite it's gravity being closely related to that of earth, other properties considered like extremely high temperatures, very
