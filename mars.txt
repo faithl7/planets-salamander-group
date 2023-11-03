@@ -3,3 +3,4 @@ Acclimatization exercises and simulations of Mars'atmospheric conditions may be 
 to allow for better adjustment to mars’ climate.
 Many previous robotic missions to Mars mean that the planet is more well known, making risk assessment for crewed mission easier.
 Mars frequently has dust storms, lasting up to a couple of months.
+Is there life on mars? If yes, it would be important to know if it is well-disposed towards humans.
